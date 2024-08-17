@@ -56,5 +56,6 @@
 "repository": {
     "type": "git",
     "url": "https://github.com/Adithya11811/SimpleCodeGen-vs-code-extension-.git"
-  }
+  },
+  "publisher": "Adithya11811"
 }
